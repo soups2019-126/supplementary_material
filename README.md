@@ -1,6 +1,6 @@
 # supplementary_material
 
-This file describes the supplementary material of the paper “Security Experts Prefer Command Line Interfaces, Don’t They? An Exploratory Study of Firewall Interfaces.”
+This file describes the supplementary material of the paper “System Administrators Are Parting Ways With Command Line Interfaces: An Exploratory Study of Firewall Interfaces”
 
 
 - link to the survey used in the study: https://www.soscisurvey.de/firewall_interfaces/
